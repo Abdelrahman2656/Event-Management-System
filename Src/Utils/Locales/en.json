@@ -1,0 +1,58 @@
+{
+	"user": {
+		"alreadyExist": "User Already Exist ",
+		"notFound": "User Not Found",
+		"failToCreate": "Fail To Create User",
+		"failToUpdate": "Fail To Update User",
+		"failToDelete": "Fail To Delete User",
+		"createdSuccessfully": "User Created Successfully",
+		"updateSuccessfully": "User Updated Successfully",
+		"deleteSuccessfully": "User Deleted Successfully",
+		"notAllowed": "User Not Authorized To Access This Api",
+		"verifiedSuccessfully": "User Verified Successfully",
+		"Recommended": "Recommended User Successfully",
+		"verified": "User Verified Successfully",
+		"notAuthorized": "not authorized to access this api",
+		"invalidCredential": "Something Wrong In Password",
+		"changePassword": "Password Changed Successfully",
+		"AlreadyHasOtp": "You Already Has OTP",
+		"checkEmail": "Check Your email",
+		"invalidOTP": "Invalid OTP",
+		"expireOTP": "OTP IS EXPIRE ",
+		"login": "Congratulation Please Login",
+		"loginSuccessfully": "User Login Successfully",
+		"Incorrect": "Incorrect In Email Or Password",
+		"AlreadyVerified": "You Already Verified",
+		"InvalidBearerToken": "Invalid Bearer Token",
+    "notAuthenticated":"User not authenticated"
+	},
+  "event":{
+    "alreadyExist": "Event Already Exist ",
+		"notFound": "Event Not Found",
+		"failToCreate": "Fail To Create Event",
+		"failToUpdate": "Fail To Update Event",
+		"failToDelete": "Fail To Delete Event",
+		"createdSuccessfully": "Event Created Successfully",
+		"updateSuccessfully": "Event Updated Successfully",
+		"deleteSuccessfully": "Event Deleted Successfully",
+		"notAllowed": "Event Not Authorized To Access This Api",
+		"verifiedSuccessfully": "Event Verified Successfully",
+		"Recommended": "Recommended Event Successfully",
+    "missingFields": "All fields are required including the event image"
+  },
+  "booking":{
+    "alreadyExist": "Booking Already Exist ",
+		"notFound": "Booking Not Found",
+		"failToCreate": "Fail To Create Booking",
+		"failToUpdate": "Fail To Update Booking",
+		"failToDelete": "Fail To Delete Booking",
+		"createdSuccessfully": "Booking Created Successfully",
+		"updateSuccessfully": "Booking Updated Successfully",
+		"deleteSuccessfully": "Booking Deleted Successfully",
+		"notAllowed": "Booking Not Authorized To Access This Api",
+		"verifiedSuccessfully": "Booking Verified Successfully",
+		"Recommended": "Recommended Booking Successfully",
+    "missingFields": "All fields are required including the Booking image"
+  }
+
+}
